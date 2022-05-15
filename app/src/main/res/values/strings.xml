@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MVVM &amp; Room DB</string>
+
+<!--    label & hint-->
+    <string name="post_list">PostList</string>
+    <string name="favourite">Favourite</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+
+<!--    Error message-->
+    <string name="valid_email">Please enter the valid email</string>
+    <string name="password_error">Please enter the password between 8-15 char</string>
+
+<!--    success message-->
+    <string name="fav_added_success">Added to favourite list successfully</string>
+</resources>
